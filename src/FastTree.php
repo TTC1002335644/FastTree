@@ -3,12 +3,21 @@ namespace bang\fasttree;
 
 class FastTree{
 
-    //实例
+    /**
+     * 实例
+     * @var null
+     */
     protected static $instance = null;
 
-    //默认配置
+    /**
+     * 默认配置
+     * @var array
+     */
     protected $config = [];
 
+    /**
+     * @var array
+     */
     public $options = [];
 
     /**
