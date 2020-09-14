@@ -1,0 +1,13 @@
+{
+    "name": "bang/fastTree",
+    "description": "处理数组，生成树状",
+    "authors": [
+        {
+            "name": "ttc",
+            "email": "1002335644@qq.com"
+        }
+    ],
+    "require": {
+    	"php": ">=7.0.0"
+    }
+}
