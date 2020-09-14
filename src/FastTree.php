@@ -1,5 +1,5 @@
 <?php
-namespace bang\fastTree;
+namespace bang\fasttree;
 
 class FastTree{
 
